@@ -74,6 +74,7 @@ This project will be extended using:
 
 - SQL
 - Power BI
+- R
 - Python
 
 to perform deeper analysis and build interactive dashboards.

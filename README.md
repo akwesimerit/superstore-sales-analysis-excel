@@ -121,5 +121,7 @@ to perform deeper analysis and build interactive dashboards.
 ## Author
 
 **Emmanuel Annan**
+
 MSc Political Science (Public Policy Analysis)
+
 Business Data Analytics Portfolio

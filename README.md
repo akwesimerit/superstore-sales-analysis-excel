@@ -80,9 +80,46 @@ This project will be extended using:
 to perform deeper analysis and build interactive dashboards.
 
 ---
+---
+
+# Dashboard & Analysis Preview
+
+## Product Category Analysis
+
+![Product Category Analysis](images/prod_cat_sales_profit_analysis.png)
+
+---
+
+## Product Sub-Category Analysis
+
+![Sub Category Analysis](images/sub_cat_sales_profit.png)
+
+---
+
+## Customer Segment Analysis
+
+![Customer Segment Analysis](images/contomer_segment.png)
+
+---
+
+## Customer Distribution Across Markets
+
+![Customer Market Share](images/consumer_market_share.png)
+
+---
+
+## Market Revenue and Profit
+
+![Market Revenue Profit](images/profit_revenue_market_analysis_chart.png)
+
+---
+
+## Market Profit Margin
+
+![Market Profit Margin](images/market_profit_margin.png)
 
 ## Author
 
 **Emmanuel Annan**
-
+MSc Political Science (Public Policy Analysis)
 Business Data Analytics Portfolio
